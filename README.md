@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Taravat Part.
-- 👀 I’m interested in Computer Vision.
-- 🌱 I’m currently learning medical image analysis.
+- 👀 I’m interested in Computer Vision and Medical Image analysis
 - 📫 This is How to reach me: taravatpart1998@gmail.com
