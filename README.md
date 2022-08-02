@@ -1,3 +1,5 @@
-- 👋 Hi, I’m Taravat Part.
-- 👀 I’m interested in Computer Vision and Medical Image analysis.
-- 📫 This is How to reach me: taravatpart1998@gmail.com
+- :raising_hand: Hi, I’m Taravat Part.
+- :nerd_face:	 I am enthusiastic about reading state of the aret papers regarding computer vision and medical image analysis.
+- :monocle_face: I am current a reseach assistant at Shahid Beheshti University, working on Alzheimer MRI images.
+- :computer:	I usually use Pytorch
+- 📫 This is How you can reach me: taravatpart1998@gmail.com
