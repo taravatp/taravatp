@@ -1,5 +1,5 @@
 - :raising_hand: Hi, I’m Taravat Part.
 - :nerd_face:	 I am enthusiastic about reading state of the art papers regarding computer vision and medical image analysis.
-- :monocle_face: I am currently a reseach assistant at Shahid Beheshti University, working on MR images of AD patients.
+- :monocle_face: I am currently a reseach assistant at Shahid Beheshti University, working on MRI images of AD patients.
 - :computer:	I usually use Pytorch.
 - 📫 This is How you can reach me: taravatpart1998@gmail.com
